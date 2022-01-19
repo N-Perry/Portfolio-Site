@@ -11,9 +11,10 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Welcome to my Portfolio Site!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          This website was made exclusively, explicitly, completely, and wholly for Carlos-Rodriguez-Munoz.<br/>
+          <em>ALL HAIL OUR LORD CARLOS</em>
         </p>
       </main>
 
